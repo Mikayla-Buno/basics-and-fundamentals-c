@@ -10,6 +10,7 @@ elements.*/
 void PrintMergingArrays();
 
 int main(){
+	cout<< "Code for GitHub repository!";
 	PrintMergingArrays();
 	return 0;
 }
